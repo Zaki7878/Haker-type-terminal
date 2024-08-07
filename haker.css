@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.commands{
+
+    width: 100vw;
+    height: 100vh;
+  display: flex;
+  align-items: center;  
+  background-color: antiquewhite;
+  justify-content: center;
+}
+.terminal{
+    width: 500px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border-radius: 7px ;
+
+}
